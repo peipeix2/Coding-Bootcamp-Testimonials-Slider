@@ -28,11 +28,11 @@ Users should be able to:
 
 Desktop Layout
 
-![](./screenshot-desktop.jpg)
+![](./screenshot-desktop.png)
 
 Mobile Layout
 
-![](./screenshot-mobile.jpg)
+![](./screenshot-mobile.png)
 
 ## My process
 
