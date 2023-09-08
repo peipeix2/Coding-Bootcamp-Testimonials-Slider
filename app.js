@@ -36,7 +36,7 @@ preBtn.addEventListener('click', (event) => {
 })
 
 afterBtn.addEventListener('click', (event) => {
-  if (state !== 1) {
+  if (state !== student.length) {
     state += 1
   }
   
